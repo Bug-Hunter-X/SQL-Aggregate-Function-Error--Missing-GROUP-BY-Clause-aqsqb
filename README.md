@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving aggregate functions and the missing `GROUP BY` clause.  The `bug.sql` file contains the incorrect query, while `bugSolution.sql` shows the corrected version.  Understanding the proper use of `GROUP BY` is essential for accurate SQL queries.
